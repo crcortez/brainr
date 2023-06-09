@@ -5,5 +5,7 @@ Generic single-database configuration.
 Description: This is a blog and twitter hybrid. The posts aren't as long as traditional blog posts and are more tweet like.
 
 1. The more I got comfortable using SQL, the design of it got more complexed and easier to understand.
+
 2. I chose to do ORM because I wanted to challenge myself.
+
 3. The way my project is right now feels incomplete because it isn't overall functional. Although, I do plan on making improvements to get it going.
